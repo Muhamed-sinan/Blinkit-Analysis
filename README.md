@@ -11,7 +11,7 @@ The dashboard provides a complete overview of business performance across outlet
 ---
 
 ## 📊 Dashboard Preview
-
+https://github.com/Muhamed-sinan/Blinkit-Analysis/blob/main/Screenshot%202026-03-03%20153954.png
 
 ---
 
